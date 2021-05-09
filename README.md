@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a third-year student of Applied Computer Science at the Cracow University of Technology. Open to work as a Javascript dev.
+I am a third-year student of Applied Computer Science at the Cracow University of Technology. Open to work as a JavaScript dev.
 
 ## Skills
 
