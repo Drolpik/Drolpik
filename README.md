@@ -1,9 +1,5 @@
 # Hi, I'm Bartek 👋
 
-## About me
-
-I am a 4th-year student of Applied Computer Science at the Cracow University of Technology.
-
 ## Skills
 
 <p align="left">
